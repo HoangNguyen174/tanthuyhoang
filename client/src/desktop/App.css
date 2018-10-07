@@ -1,0 +1,17 @@
+.App {
+    font-size: 25px;  
+    box-sizing: border-box;
+}
+
+.page .title {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(58,58,60);
+}
+
+.main-content {
+    margin-top: 125px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 15px;
+}

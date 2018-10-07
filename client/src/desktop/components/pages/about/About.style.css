@@ -1,0 +1,37 @@
+.intro {
+    font-size: 15px;
+    line-height: 1.6;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.intro.filler {
+  margin-top: 45px;
+  margin-bottom: 25px;
+}
+
+.page hr {
+    color: rgb(210,213,216);
+    border-top: none;
+}
+
+.people-section { 
+    display: inline-block;
+    padding: 10px 50px 25px 50px;
+    width: 100%;
+    font-size: 15px;
+    font: 'Source Sans Pro Bold';
+}
+
+.people {
+  display: flex;
+}
+
+.people img {
+    width: 170px;
+    height: 170px;
+    background-color: white;
+    border:1px solid black;
+    padding: 10px;
+    margin: 5px 60px 10px 60px;
+}

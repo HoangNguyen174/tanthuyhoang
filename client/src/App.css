@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  font-size: 25px;  
+  box-sizing: border-box;
+  font: 'Source Sans Pro Bold';  
+}
+
+.App-title {
+  font-size: 1.5em;
+}
